@@ -1,0 +1,1 @@
+"""Generate handwritten digits from a sequence of inputs using a conditional variational autoencoder and the MNIST dataset"""
